@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Thanks for visit my portfolio site!
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+om
